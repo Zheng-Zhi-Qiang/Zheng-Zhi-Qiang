@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently working to improve my front-end developing skills by learning the basics of JavaScript. 
+I have a passion for solving problems with technology, and I'm currently working to improve my front-end developing skills by learning the basics of JavaScript. 
 
 
 ## 🌐 Socials:
